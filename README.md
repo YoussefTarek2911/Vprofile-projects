@@ -21,5 +21,6 @@ sql dump file:
 - /src/main/resources/db_backup.sql
 - db_backup.sql file is a mysql dump file.we have to import this dump to mysql db server
 - > mysql -u <user_name> -p accounts < db_backup.sql
-![Alt text](C:\Users\yosse\OneDrive\Pictures\Screenshots\vprofile-project.png)
+![vprofile-project](https://github.com/YoussefTarek2911/Vprofile-projects/assets/108703940/2b9bda07-6228-4bc9-a4e0-d37b8f6a678a)
+
 
